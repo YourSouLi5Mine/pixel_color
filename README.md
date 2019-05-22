@@ -1,5 +1,5 @@
 # Usage
-`python pixel_changer.py -i gengar.jpg`
+`python pixel_finder.py -i gengar.jpg`
 
 ## What's done so far
 1. The program detects Gengar eyes and draws a red square around them
